@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"Auto Semi-Colon",
+		"Babel",
+		"BracketHighlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"HTML Mustache",
+		"Inc-Dec-Value",
+		"LESS",
+		"Line Endings Unify",
+		"Markdown Preview",
+		"Material Theme",
+		"Monokai Extended",
+		"Numix Theme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-stylelint",
+		"Theme - Brogrammer",
+		"Theme - Curiosity",
+		"ToDone"
+	]
+}
